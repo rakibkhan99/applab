@@ -1,0 +1,475 @@
+/* 
+  ##Device = Desktops
+  ##Screen = 1281px to higher resolution desktops
+*/
+
+@media (min-width: 1281px) {
+  
+    /* CSS */
+    
+  }
+  
+  /* 
+    ##Device = Laptops, Desktops
+    ##Screen = B/w 1025px to 1280px
+  */
+  
+  @media (min-width: 1025px) and (max-width: 1280px) {
+    
+    /* CSS */
+    
+  }
+  
+  /* 
+    ##Device = Tablets, Ipads (portrait)
+    ##Screen = B/w 768px to 1024px
+  */
+  
+  @media (min-width: 768px) and (max-width: 1024px) {
+    
+    /* CSS */
+    
+  }
+  
+  /* 
+    ##Device = Tablets, Ipads (landscape)
+    ##Screen = B/w 768px to 1024px
+  */
+  
+  @media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+    
+    /* CSS */
+    
+  }
+  
+  /* 
+    ##Device = Low Resolution Tablets, Mobiles (Landscape)
+    ##Screen = B/w 481px to 767px
+  */
+  
+  @media (min-width: 481px) and (max-width: 767px) {
+    
+ 
+    .banner{
+        height: auto;
+      }
+     
+      .banner-btn1 button{
+        padding: 3px 45px;
+  
+      }
+      .banner-btn1 button{
+        font-size: 16px;
+      }
+      .banner-content h1{
+        font-size: 30px;
+        margin-bottom: 0px;
+      }
+      .banner-content p{
+        font-size: 14px;
+        margin-bottom: 40px;
+        margin-top: 10px;
+        width: 62%;
+      }
+      .bann{
+        bottom: 36px;
+        left: 0px;
+      }
+      .banner-btn2 button{
+        padding: 8px 23px;
+        font-size: 15px;
+      }
+      .d-flex button{
+        padding: 8px 23px;
+        font-size: 15px;
+        margin-left: 0px;
+      }
+      .owl-carousel .owl-item img{
+        margin-left: 93px;
+      }
+      .awesome-app-section{
+        text-align: center;
+      }
+      .banner-btn1-icn{
+        top: -1px;
+        left: 13px;
+      }
+      .monthly-btn{
+        margin-left: 0px;
+      }
+      .left-price-box{
+        margin-left: 0px;
+      }
+      .smart-jacpot-left-content h1{
+        font-size: 30px;
+      }
+      .smart-jacpot-right-content p{
+        font-size: 15px;
+      }
+      .automatic-section {
+        margin-top: 30px;
+        text-align: inherit;
+    }
+    .designed-section {
+      margin-top: 50px;
+    }
+    .designed-img img {
+      padding-left: 0px;
+    }
+    .designed-content{
+      padding-left: 12px;
+    }
+    .designed-content p {
+      font-size: 15px;
+      margin-bottom: 28px;
+      margin-top: 10px;
+    }
+    .designed-content h1 {
+      font-size: 30px;
+      
+    }
+    .choose-app-section {
+      margin-top: 0px;
+    }
+    .choose-content p {
+      font-size: 13px;
+      margin-bottom: 30px;
+    }
+    .choose-content h2 {
+      font-size: 28px;
+    }
+    .ultimate-content {
+      margin-left: 26px;
+    }
+    .ultimate-features-section {
+      margin-top: 50px;
+    }
+    .ultimate-content p {
+      font-size: 14px;
+      margin-top: 13px;
+      margin-bottom: 28px;
+    }
+    .get-awesome{
+      margin-top: 50px;
+      margin-bottom: 50px;
+    } 
+    .get-awesome-content h1 {
+      font-size: 22px;
+    } 
+    .get-awesome-content p {
+      font-size: 13px;
+      margin-top: 15px;
+    }
+    .monthly-btn {
+      margin-left: 7%;
+    }
+    .client-content h1{
+      font-size: 30px;
+      margin-top: 15px;
+    }
+    .client-content p {
+      font-size: 13px;
+    }
+    .client-slidar-sec .owl-carousel .owl-item img {
+      margin-left: 0px;
+    }
+    .frequently-content h1 {
+      font-size: 30px;
+      margin-bottom: 19px;
+    }
+    .frequently-content p {
+      font-size: 13px;
+    }
+    .left-price-box {
+      margin-left: 0px;
+      flex-basis: 45%;
+    }
+    .price-up-sec h1 {
+      font-size: 40px;
+    }
+    .price-box button {
+      padding: 7px 24px;
+      font-size: 13px;
+    }
+    .right-price-box {
+      flex-basis: 45%;
+      margin-left: 30px;
+      
+    }
+    .price-up-sec span {
+      font-size: 16px;
+    }
+    .price-up-sec h2 {
+      font-size: 19px;
+    }
+    .right-price-box a {
+      font-size: 9px;
+     
+    }
+    .client-content p {
+      font-size: 11px;
+    }
+    .client-content h1 {
+      font-size: 28px;
+    }
+    .download-app-content p {
+      font-size: 12px;
+    }
+    .download-app-content h1 {
+      font-size: 30px;
+      margin-bottom: 10px;
+    }
+    .download-app-content {
+      margin-left: 0px;
+      margin-top: 30px;
+      text-align: center;
+    }
+    .playstore{
+      margin-bottom: 10px;
+    }
+    .appstore{
+      margin-bottom: 10px;
+    }
+    .download-store-pic {
+      margin-left: 84px;
+    }
+    .footer-sec {
+      margin-top: -24px;
+    }
+    .menu-bar-sec ul li a {
+      font-size: 14px;
+      margin-right: 8px;
+    }
+    .copyright-sec p {
+      font-size: 13px;
+      padding-bottom: 38px;
+    }
+    .footer-icn-sec {
+      margin-bottom: 37px;
+    }
+    .client-pic {
+      padding-top: 10px;
+      margin-bottom: 10px;
+    }
+    
+    .menu-bar-sec ul{
+      padding-left: 0px !important;
+    }
+  
+  }
+  
+  /* 
+    ##Device = Most of the Smartphones Mobiles (Portrait)
+    ##Screen = B/w 320px to 479px
+  */
+  
+  @media (min-width: 320px) and (max-width: 480px) {
+    .banner{
+      height: auto;
+    }
+   
+    .banner-btn1 button{
+      padding: 3px 45px;
+
+    }
+    .banner-btn1 button{
+      font-size: 16px;
+    }
+    .banner-content h1{
+      font-size: 30px;
+      margin-bottom: 0px;
+    }
+    .banner-content p{
+      font-size: 14px;
+      margin-bottom: 40px;
+      margin-top: 10px;
+      width: 62%;
+    }
+    .bann{
+      bottom: 36px;
+      left: 0px;
+    }
+    .banner-btn2 button{
+      padding: 8px 23px;
+      font-size: 15px;
+    }
+    .d-flex button{
+      padding: 8px 23px;
+      font-size: 15px;
+      margin-left: 0px;
+    }
+    .owl-carousel .owl-item img{
+      margin-left: 93px;
+    }
+    .awesome-app-section{
+      text-align: center;
+    }
+    .banner-btn1-icn{
+      top: -1px;
+      left: 13px;
+    }
+    .monthly-btn{
+      margin-left: 0px;
+    }
+    .left-price-box{
+      margin-left: 0px;
+    }
+    .smart-jacpot-left-content h1{
+      font-size: 30px;
+    }
+    .smart-jacpot-right-content p{
+      font-size: 15px;
+    }
+    .automatic-section {
+      margin-top: 30px;
+      text-align: inherit;
+  }
+  .designed-section {
+    margin-top: 50px;
+  }
+  .designed-img img {
+    padding-left: 0px;
+  }
+  .designed-content{
+    padding-left: 12px;
+  }
+  .designed-content p {
+    font-size: 15px;
+    margin-bottom: 28px;
+    margin-top: 10px;
+  }
+  .designed-content h1 {
+    font-size: 30px;
+    
+  }
+  .choose-app-section {
+    margin-top: 0px;
+  }
+  .choose-content p {
+    font-size: 13px;
+    margin-bottom: 30px;
+  }
+  .choose-content h2 {
+    font-size: 28px;
+  }
+  .ultimate-content {
+    margin-left: 26px;
+  }
+  .ultimate-features-section {
+    margin-top: 50px;
+  }
+  .ultimate-content p {
+    font-size: 14px;
+    margin-top: 13px;
+    margin-bottom: 28px;
+  }
+  .get-awesome{
+    margin-top: 50px;
+    margin-bottom: 50px;
+  } 
+  .get-awesome-content h1 {
+    font-size: 22px;
+  } 
+  .get-awesome-content p {
+    font-size: 13px;
+    margin-top: 15px;
+  }
+  .monthly-btn {
+    margin-left: 7%;
+  }
+  .client-content h1{
+    font-size: 30px;
+    margin-top: 15px;
+  }
+  .client-content p {
+    font-size: 13px;
+  }
+  .client-slidar-sec .owl-carousel .owl-item img {
+    margin-left: 0px;
+  }
+  .frequently-content h1 {
+    font-size: 30px;
+    margin-bottom: 19px;
+  }
+  .frequently-content p {
+    font-size: 13px;
+  }
+  .left-price-box {
+    margin-left: 0px;
+    flex-basis: 45%;
+  }
+  .price-up-sec h1 {
+    font-size: 40px;
+  }
+  .price-box button {
+    padding: 7px 24px;
+    font-size: 13px;
+  }
+  .right-price-box {
+    flex-basis: 45%;
+    margin-left: 30px;
+    
+  }
+  .price-up-sec span {
+    font-size: 16px;
+  }
+  .price-up-sec h2 {
+    font-size: 19px;
+  }
+  .right-price-box a {
+    font-size: 9px;
+   
+  }
+  .client-content p {
+    font-size: 11px;
+  }
+  .client-content h1 {
+    font-size: 28px;
+  }
+  .download-app-content p {
+    font-size: 12px;
+  }
+  .download-app-content h1 {
+    font-size: 30px;
+    margin-bottom: 10px;
+  }
+  .download-app-content {
+    margin-left: 0px;
+    margin-top: 30px;
+    text-align: center;
+  }
+  .playstore{
+    margin-bottom: 10px;
+  }
+  .appstore{
+    margin-bottom: 10px;
+  }
+  .download-store-pic {
+    margin-left: 84px;
+  }
+  .footer-sec {
+    margin-top: -24px;
+  }
+  .menu-bar-sec ul li a {
+    font-size: 14px;
+    margin-right: 8px;
+  }
+  .copyright-sec p {
+    font-size: 13px;
+    padding-bottom: 38px;
+  }
+  .footer-icn-sec {
+    margin-bottom: 37px;
+  }
+  .client-pic {
+    padding-top: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .menu-bar-sec ul{
+    padding-left: 0px !important;
+  }
+
+
+
+}
